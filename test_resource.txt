@@ -6,4 +6,6 @@ update text. END.
 
 Show GIT PUSH command.
 
+Another new line.
+
 New line.
